@@ -1,6 +1,6 @@
 ﻿namespace MariaDB
 {
-    public class Class1
+    public class MariaDB
     {
 
     }
